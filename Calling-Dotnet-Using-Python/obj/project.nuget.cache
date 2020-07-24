@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4aDUFYRd6JozzaVvMAq1dLBTb4RmTo797ipQ37h1PtvoAbMA3xSF2DjPmPQ6x0AiPotSbUXcDHiMmQ5Zb4nGyg==",
+  "success": true,
+  "projectFilePath": "/Users/mayankkhanna/Work/Dotnet/CallCSFromPy/CallCSFromPy.csproj",
+  "expectedPackageFiles": [
+    "/Users/mayankkhanna/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mayankkhanna/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
