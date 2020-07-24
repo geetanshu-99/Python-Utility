@@ -61,7 +61,7 @@ Js2Py is written in pure python and does not have any dependencies. Basically an
    3.2 python javascript1.py
 
 
-![demo](/images/javascriptoutput.png)
+![demo](/images/javascriptoutput.PNG)
 
 ---
 
@@ -84,7 +84,7 @@ JPype is a Python module to provide full access to Java from within Python.
 3. python java.py
 
 
-![demo](/images/javaoutput.png)
+![demo](/images/javaoutput.PNG)
 
 ---
 
@@ -114,6 +114,6 @@ and a low-level interface which can be used in a customized setup.
 3. python test1.py
 
 
-![demo](/images/juliaoutput.png)
+![demo](/images/juliaoutput.PNG)
 
 ---
