@@ -31,13 +31,14 @@ There are some pre-requistes that need to be kept in mind before executing the c
 
 ![demo](/images/output.png)
 
----
 
 ## References:
 
 1. [Pythonnet](http://pythonnet.github.io/)
 2. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 3. [Python](https://www.python.org/) 
+
+---
 
 # CALLING JAVASCRIPT CODE FROM PYTHON
 
