@@ -66,7 +66,7 @@ python javascript1.py - area of triangle
 ```
 
 
-![demo](/images/javascriptoutput.PNG)
+![demo](/images/js_py.png)
 
 ## Reference
 
