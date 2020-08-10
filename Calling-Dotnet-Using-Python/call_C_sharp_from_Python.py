@@ -1,6 +1,6 @@
 import sys
 
-assembly_path = r"/Users/mayankkhanna/Work/Dotnet/CallCSFromPy"
+assembly_path = r"/Users/mayankkhanna/Work/Python/Callin-Dotent-Using-Python"
 sys.path.append(assembly_path)
 
 import clr

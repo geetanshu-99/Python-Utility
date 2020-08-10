@@ -1,5 +1,7 @@
+# CALLING CODE OF DIFFERENT LANGUAGES USING PYTHON - .NET, Java, Javascript, Julia
 
-# CALLING C# CODE FROM PYTHON
+
+# Calling C# code from Python
 
 This is a simple execution of the code, where we can execute a Code of a Calculator written in C# by calling it in Python.
 
@@ -40,33 +42,40 @@ There are some pre-requistes that need to be kept in mind before executing the c
 
 ---
 
-# CALLING JAVASCRIPT CODE FROM PYTHON
+# Calling Javascript code from Python
 
-Js2Py
+For calling JavaScript code from python, we will be using a package - __Js2Py__.
 
-Translates JavaScript to Python code. Js2Py is able to translate and execute virtually any JavaScript code.
 
-Js2Py is written in pure python and does not have any dependencies. Basically an implementation of JavaScript core in pure python.
+What this package does it that it _translates JavaScript code to Python code_. __Js2Py__ is able to translate and execute virtually any JavaScript code.
+
+__Js2Py__ is written in pure python and does not have any dependencies. Basically an implementation of JavaScript core in pure python. For this example we will be using __python3__.
 
 ## Install Js2py for python
 1. Open command prompt
-2. pip install js2py
+2. Install the package using __pip__ : `pip install js2py`
 
 ## How to run
 1. Open Command Prompt
 2. Go to the file directory where python script is present using-
-   cd path/to/directory
+   `cd path/where/javascript_code_is_written`
 3. 
-   3.1 python javascript.py
-
-   3.2 python javascript1.py
+```bash
+python javascript.py - concat strings
+python javascript1.py - area of triangle
+```
 
 
 ![demo](/images/javascriptoutput.PNG)
 
+## Reference
+
+1. [Js2Py](https://github.com/PiotrDabkowski/Js2Py)
+2. [Python](https://www.python.org/)
+
 ---
 
-# CALLING JAVA CODE FROM PYTHON
+# Calling Java from Python
 
 JPype
 
@@ -89,7 +98,7 @@ JPype is a Python module to provide full access to Java from within Python.
 
 ---
 
-# CALLING JULIA CODE FROM PYTHON
+# Calling Julia from Python
 
 pyjulia,Pycall,Julia
 

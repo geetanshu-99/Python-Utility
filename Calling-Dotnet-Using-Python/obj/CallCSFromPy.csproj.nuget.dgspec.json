@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mayankkhanna/Work/Dotnet/CallCSFromPy/CallCSFromPy.csproj": {}
+    "/Users/mayankkhanna/Work/Python/Python-Utility/Calling-Dotnet-Using-Python/CallCSFromPy.csproj": {}
   },
   "projects": {
-    "/Users/mayankkhanna/Work/Dotnet/CallCSFromPy/CallCSFromPy.csproj": {
+    "/Users/mayankkhanna/Work/Python/Python-Utility/Calling-Dotnet-Using-Python/CallCSFromPy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mayankkhanna/Work/Dotnet/CallCSFromPy/CallCSFromPy.csproj",
+        "projectUniqueName": "/Users/mayankkhanna/Work/Python/Python-Utility/Calling-Dotnet-Using-Python/CallCSFromPy.csproj",
         "projectName": "CallCSFromPy",
-        "projectPath": "/Users/mayankkhanna/Work/Dotnet/CallCSFromPy/CallCSFromPy.csproj",
+        "projectPath": "/Users/mayankkhanna/Work/Python/Python-Utility/Calling-Dotnet-Using-Python/CallCSFromPy.csproj",
         "packagesPath": "/Users/mayankkhanna/.nuget/packages/",
-        "outputPath": "/Users/mayankkhanna/Work/Dotnet/CallCSFromPy/obj/",
+        "outputPath": "/Users/mayankkhanna/Work/Python/Python-Utility/Calling-Dotnet-Using-Python/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mayankkhanna/.nuget/NuGet/NuGet.Config"
@@ -41,6 +41,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "pythonnet": {
+              "target": "Package",
+              "version": "[2.3.0-py35-dotnet, )"
             }
           },
           "imports": [
