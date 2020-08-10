@@ -1,4 +1,4 @@
-# CALLING CODE OF DIFFERENT LANGUAGES USING PYTHON - .NET, Java, Javascript, Julia
+# Calling different language code using Python - .NET, Java, Javascript, Julia
 
 
 # Calling C# code from Python
