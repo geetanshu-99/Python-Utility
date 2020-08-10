@@ -1,7 +1,10 @@
 import js2py
 
-js = """
-function escramble_758(){
+# This is a simple example of String Concatination
+# using JavaScript.
+
+js_code = """
+function concat_2_strings_py(){
 var a,b,c
 a='+1 '
 b='84-'
@@ -10,8 +13,8 @@ b+='7450'
 c='9'
 document.write(a+c+b)
 }
-escramble_758()
+concat_2_strings_py()
 """.replace("document.write", "return ")
 
-result = js2py.eval_js(js)
+result = js2py.eval_js(js_code)
 print(result)
